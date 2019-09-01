@@ -1,3 +1,3 @@
 # DevelopmentSQA
 SQA
-Changes are doing by Quality Assurance Branch
+Changes are doing by Release Branch
